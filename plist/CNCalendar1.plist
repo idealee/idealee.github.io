@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://10.0.0.6/2/CNCalendar1.0(1).ipa</string>
+                   <string>http://10.0.0.6/z/CNCalendar1.0(1).ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://10.0.0.6/2/icon.png</string>
+                   <string>http://10.0.0.6/z/icon.png</string>
                </dict>
            <dict>
                    <key>kind</key>
@@ -27,7 +27,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://10.0.0.6/2/icon.png</string>
+                   <string>http://10.0.0.6/z/icon.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>

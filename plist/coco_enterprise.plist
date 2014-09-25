@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://60.12.207.45:3004/CocoEnterprise3.0.ipa</string>
+                   <string>http://60.12.207.45:3004/CocoEnterprise5.0.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -34,7 +34,7 @@
                <key>bundle-identifier</key>
                <string>com.365rili.CocoEnterprise</string>
                <key>bundle-version</key>
-               <string>3.0</string>
+               <string>5.0</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>

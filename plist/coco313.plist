@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://60.12.207.45:3004/CocoEnterprise5.0.ipa</string>
+                   <string>http://10.0.0.6/i/Coco5.0.1(313).ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -19,7 +19,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://60.12.207.45:3004/icon.png</string>
+                   <string>http://10.0.0.6/i/icon.png</string>
                </dict>
            <dict>
                    <key>kind</key>
@@ -27,18 +27,18 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>http://60.12.207.45:3004/icon.png</string>
+                   <string>http://10.0.0.6/i/icon.png</string>
                </dict>
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.365rili.CocoEnterprise</string>
+               <string>com.365rili.Coco</string>
                <key>bundle-version</key>
-               <string>5.0</string>
+               <string>5.0.1</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>内测版</string>
+               <string>DB</string>
                <key>title</key>
                <string>365日历</string>
            </dict>

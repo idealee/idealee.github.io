@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://10.0.0.6/i/Coco5.7(440).ipa</string>
+                   <string>http://10.0.0.6/i/Coco5.7.1(440).ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -34,7 +34,7 @@
                <key>bundle-identifier</key>
                <string>com.365rili.Coco.iOS8fix</string>
                <key>bundle-version</key>
-               <string>5.7</string>
+               <string>5.7.1</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
